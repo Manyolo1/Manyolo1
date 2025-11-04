@@ -1,5 +1,5 @@
 # Welcome to Manyolo's.
-### 🧠 Why I Code?
+### Why I Code?
 
 Because it keeps me sane.
 Whether it’s the thrill of cracking a  DSA problem or shipping a new product feature , I love the way coding warms up the brain and channels creativity into building something real.
